@@ -19,7 +19,7 @@
 }
 
 #menu:after,
-#menu> ul:after {
+#menu ul:after {
 	content:".";
 	display: block;
 	clear:both;
@@ -35,4 +35,27 @@
 
 #menu {
 	width: auto;
+	font-family: Raleway, sans-serif;
+    line-height: 1;
+
 }
+
+#menu ul {
+	background: #3db2e1;
+
+}
+
+#menu ul li {
+	float: left;
+	-webkit-perspective: 1000px;
+  	-moz-perspective: 1000px;
+  	perspective: 1000px;
+	
+}
+
+#menu.align-center ul {
+	font-style: 0;
+	text-align: center;
+
+}
+
