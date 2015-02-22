@@ -123,7 +123,7 @@
 
 #menu > ul > li:hover > a::before,
 #menu > ul > li > a:hover::before {
-  background: #ffffff;
+  background: ##000102;
 }
 #menu.small-screen {
   width: 100%;
@@ -141,7 +141,7 @@
 }
 #menu.small-screen > ul > li:hover > a,
 #menu.small-screen > ul > li > a:hover {
-  color: #ffffff;
+  color: #000102;
   -webkit-transform: none;
   -moz-transform: none;
   transform: none;
