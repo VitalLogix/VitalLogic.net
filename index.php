@@ -9,7 +9,7 @@
 </head>
 
 <body> 
-	<ul id="menu"> 
+	<ul id="nav"> 
 		<li class='active'><a href="#">Home</a></li>
 		<li><a href='#'>Collective of Strangers</a></li>
 		<li><a href='#'>About Us</a></li>
