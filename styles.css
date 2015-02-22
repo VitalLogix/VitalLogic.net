@@ -83,7 +83,7 @@
 }
 
 #menu > ul > li.active > a {
-  color: #ffffff;
+  color: #000102;
 }
 
 #menu > ul > li:hover > a,
@@ -107,7 +107,7 @@
   height: 100%;
   padding: 16px 20px;
   color: #000102;
-  background: #ffffff;
+  background: #000102;
   content: attr(data-title);
   -webkit-transition: background 0.3s;
   -moz-transition: background 0.3s;
