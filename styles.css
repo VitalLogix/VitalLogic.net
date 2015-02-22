@@ -156,7 +156,7 @@
   cursor: pointer;
   font-size: 14px;
   text-decoration: none;
-  color: #ffffff;
+  color: #000102;
   text-transform: uppercase;
   letter-spacing: 1px;
   background: #000102;
@@ -187,7 +187,7 @@
   display: block;
   width: 22px;
   height: 2px;
-  background: #ffffff;
+  background: #000102;
 }
 #menu.small-screen #menu-button.menu-opened:before {
   background: #000102;
