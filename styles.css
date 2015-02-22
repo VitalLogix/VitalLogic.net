@@ -5,7 +5,6 @@ ul {
 	position: absolute;
 }
 
-a {
-	display: block;
-	width: 60px;
+li {
+	display: inline;
 }
