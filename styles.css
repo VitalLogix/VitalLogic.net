@@ -83,12 +83,12 @@
 }
 
 #menu > ul > li.active > a {
-  color: #dff2fa;
+  color: #000102;
 }
 
 #menu > ul > li:hover > a,
 #menu > ul > li > a:hover {
-  color: #dff2fa;
+  color: #000102;
   -webkit-transform: rotateX(90deg) translateY(-23px);
   -moz-transform: rotateX(90deg) translateY(-23px);
   transform: rotateX(90deg) translateY(-23px);
@@ -106,7 +106,7 @@
   width: 100%;
   height: 100%;
   padding: 16px 20px;
-  color: #dff2fa;
+  color: #000102;
   background: #19799f;
   content: attr(data-title);
   -webkit-transition: background 0.3s;
@@ -141,7 +141,7 @@
 }
 #menu.small-screen > ul > li:hover > a,
 #menu.small-screen > ul > li > a:hover {
-  color: #dff2fa;
+  color: #000102;
   -webkit-transform: none;
   -moz-transform: none;
   transform: none;
@@ -176,8 +176,8 @@
   height: 3px;
 }
 #menu.small-screen #menu-button.menu-opened:after {
-  border-top: 2px solid #dff2fa;
-  border-bottom: 2px solid #dff2fa;
+  border-top: 2px solid #000102;
+  border-bottom: 2px solid #000102;
 }
 #menu.small-screen #menu-button:before {
   content: "";
@@ -190,5 +190,5 @@
   background: #ffffff;
 }
 #menu.small-screen #menu-button.menu-opened:before {
-  background: #dff2fa;
+  background: #000102;
 }
