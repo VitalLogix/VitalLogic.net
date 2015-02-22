@@ -6,10 +6,5 @@ ul {
 }
 
 li {
-    float: left;
-}
-
-a {
-    display: block;
-    width: 60px;
+    display: inline;
 }
