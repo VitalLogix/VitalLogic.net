@@ -69,7 +69,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   text-decoration: none;
-  background: #ffffff;
+  background: #000102;
   -webkit-transition: all .3s;
   -moz-transition: all .3s;
   -o-transition: all .3s;
@@ -83,7 +83,7 @@
 }
 
 #menu > ul > li.active > a {
-  color: #000102;
+  color: #ffffff;
 }
 
 #menu > ul > li:hover > a,
@@ -107,7 +107,7 @@
   height: 100%;
   padding: 16px 20px;
   color: #000102;
-  background: #000102;
+  background: #ffffff;
   content: attr(data-title);
   -webkit-transition: background 0.3s;
   -moz-transition: background 0.3s;
@@ -123,7 +123,7 @@
 
 #menu > ul > li:hover > a::before,
 #menu > ul > li > a:hover::before {
-  background: #000102;
+  background: #ffffff;
 }
 #menu.small-screen {
   width: 100%;
@@ -141,7 +141,7 @@
 }
 #menu.small-screen > ul > li:hover > a,
 #menu.small-screen > ul > li > a:hover {
-  color: #000102;
+  color: #ffffff;
   -webkit-transform: none;
   -moz-transform: none;
   transform: none;
